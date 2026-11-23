@@ -1,0 +1,6 @@
+Sempre que terminar qualquer coisa em python
+rodar no termina:
+
+git add .
+git commit -m "Descrição do que você fez hoje"
+git push
